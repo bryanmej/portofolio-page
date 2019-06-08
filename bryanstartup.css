@@ -1,0 +1,87 @@
+.bg {
+  background: url("rafael-saes-1575950-unsplash.jpg"); 
+  background-size: cover;
+  height: 100vh;
+}
+
+.navbar-brand {
+  margin-top: 1%;
+  margin-left: 5%;
+  font-size: 1.3rem;
+  border-radius: 4px;
+  position: fixed;
+}
+
+.navbar-brand:hover {
+  box-shadow: 2px 2px 2px rgba(245, 245, 245, 0.872);
+}
+
+button.navbar-toggler {
+  margin-left: 80%;
+}
+
+.navbar-nav {
+  margin-right: 5%;
+}
+
+.navbar .nav-item {
+  color: white;
+  margin: 0 10px;
+  font-size: 1.3rem;
+  
+}
+
+.nav-item:hover {
+  border-bottom: 2px solid white;
+}
+
+.container {
+  padding-top: 22%;
+  color: whitesmoke;
+}
+
+.content {
+  border: solid 4px white;
+  box-shadow: 4px 4px 4px rgba(245, 245, 245, 0.872);
+  text-shadow: 4px 4px 4px rgba(245, 245, 245, 0.872);
+  padding-top: 15px;
+  padding-bottom: 25px;
+  width: 60%;
+  margin: 0 auto;
+
+}
+
+hr {
+  background: white;
+  width: 85%;
+  margin-top: 0;
+}
+
+.about-head {
+  color: #1c1b1b;
+}
+
+.about-text {
+  color: #17a2b8;
+  font-size: 1.4rem;
+}
+
+.skill-col {
+  background: #1c1b1b;
+}
+
+.skills {
+  color: whitesmoke;
+}
+
+
+
+.techs {
+  width: 20%;
+} 
+
+
+
+
+
+
