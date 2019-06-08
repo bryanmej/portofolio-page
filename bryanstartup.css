@@ -68,16 +68,21 @@ hr {
 
 .skill-col {
   background: #1c1b1b;
+  padding: 10% 0;
 }
 
 .skills {
+  border-bottom: 2px whitesmoke solid;
+  width: 40%;
+  margin: 0 auto;
+  padding: 4% 0;
   color: whitesmoke;
 }
 
 
 
 .techs {
-  width: 20%;
+  width: 100%;
 } 
 
 
