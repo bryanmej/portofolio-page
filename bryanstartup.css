@@ -1,5 +1,5 @@
 .bg {
-  background: url("rafael-saes-1575950-unsplash.jpg"); 
+  background: url("rafael-saes-1575950-unsplash.jpg");
   background-size: cover;
   height: 100vh;
 }
@@ -14,6 +14,7 @@
 
 .navbar-brand:hover {
   box-shadow: 2px 2px 2px rgba(245, 245, 245, 0.872);
+  background: #1c1b1b;
 }
 
 button.navbar-toggler {
@@ -28,14 +29,13 @@ button.navbar-toggler {
   color: white;
   margin: 0 10px;
   font-size: 1.3rem;
-  
 }
 
 .nav-item:hover {
   border-bottom: 2px solid white;
 }
 
-.container {
+div.container.text-center {
   padding-top: 22%;
   color: whitesmoke;
 }
@@ -48,7 +48,6 @@ button.navbar-toggler {
   padding-bottom: 25px;
   width: 60%;
   margin: 0 auto;
-
 }
 
 hr {
@@ -79,14 +78,14 @@ hr {
   color: whitesmoke;
 }
 
-
-
 .techs {
   width: 100%;
-} 
+}
 
+.gallery {
+  background: #17a2b8;
+}
 
-
-
-
-
+.card-img-top {
+  height: 210px;
+}
